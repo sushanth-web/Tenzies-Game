@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(0, 0, 14);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  font-family: sans-serif;
+}
+div#root{
+    height: 100%;
+    width: 100%;
+    max-height: 400px;
+    max-width: 400px;
+}
+main {
+  background-color: rgb(235, 235, 208);
+  height: 100%;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.section {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px; /* Responsive gap: grows from 10px up to 30px */
+  justify-content: center;
+  align-content: center;
+}
+
+.section button{
+  background-color: white;
+  border-radius: 10px;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  border: none;
+  font-size: 1rem;
+  font-family: "Inter",sans-serif;
+}
+
+.roll{
+    color: white;
+    background-color: rgb(98, 0, 190);
+    font-weight: bold;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    border: none;
+    font-size: 1rem;
+    font-family: "Inter",sans-serif;
+    padding: 10px 21px;
+    white-space: nowrap;
+    width: auto;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.title{
+    font-size: 40px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.title-box{
+    margin: 20px;
+    padding: 5px;
+    
+}
+p{
+    font-size:1.2rem;
+}
+ button:hover{
+    filter: brightness(120%);
+ }
