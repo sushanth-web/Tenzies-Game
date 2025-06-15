@@ -9,11 +9,13 @@
 
 
 <h2>🟩 After Selecting Dice</h2>
-![localhost_5173_ (3)](https://github.com/user-attachments/assets/891c1c96-9394-4c47-9076-9f55c7893cd5)
+
+![localhost_5173_ (3)](https://github.com/user-attachments/assets/febda6c9-96f0-4334-9ce8-215b448628e7)
 
 
 <h2>🎉 Winning Screen</h2>
-![localhost_5173_ (1)](https://github.com/user-attachments/assets/f7b1a3c9-7dfe-4b0f-bfb8-89eebb2eac26)
+
+![localhost_5173_ (1)](https://github.com/user-attachments/assets/20e22d8a-631a-43db-933a-2615a850c923)
 
 
 <h1>🎮 How to Play</h1>
@@ -30,7 +32,8 @@ Click "New Game" to play again.
 <h1>🛠️ Features</h1>
 ✅ Built with React using functional components and hooks
 
-<h2>🎯 Real-time win detection
+🎯 Real-time win detection
+
 
 🧠 Uses useState, useEffect, useRef, and nanoid
 
@@ -38,11 +41,11 @@ Click "New Game" to play again.
 
 💥 Confetti effect upon winning
 
-📱 Responsive design</h2>
+📱 Responsive design
 
 <h1>📦 Tech Stack</h1>
 
-<h2>React
+React
 
 HTML
 
@@ -52,4 +55,4 @@ JavaScript
 
 nanoid for unique dice IDs
 
-react-confetti for victory animation</h2>
+react-confetti for victory animation
