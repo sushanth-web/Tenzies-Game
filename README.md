@@ -3,7 +3,9 @@
 
 <h1>📸 Screenshots</h1>
 <h2>▶️ Initial Game Screen</h2>
-![localhost_5173_ (2)](https://github.com/user-attachments/assets/acc91e86-5476-4cc3-8620-a8f530156afa)
+
+
+![localhost_5173_ (2)](https://github.com/user-attachments/assets/d8e34542-84cb-4943-8a2d-5dd08373573c)
 
 
 <h2>🟩 After Selecting Dice</h2>
