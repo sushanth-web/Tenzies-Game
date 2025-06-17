@@ -2,7 +2,7 @@
 <h2>A fun and interactive React-based implementation of the classic Tenzies game! Roll the dice, hold the numbers you want, and try to get all 10 dice to show the same value. Includes smart state management, win detection, and a celebratory confetti animation when you win.</h2>
 
 <h1>🚀 Live Demo</h1>
-You can view the live project at: https://vercel.com/sushanths-projects-d23120c4/tenzies-game
+You can view the live project at:https://tenzies-game-two-beta.vercel.app/
 
 <h1>📸 Screenshots</h1>
 <h2>▶️ Initial Game Screen</h2>
